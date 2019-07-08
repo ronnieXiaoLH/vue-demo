@@ -1,5 +1,5 @@
 <template>
-  <v-container fluid pl-0 pr-0 pt-0 pb-0>
+  <v-container fluid pa-0>
     <v-layout align-center justify-center class="container">
       <v-flex xs12 class="box">
         hello world!
